@@ -65,6 +65,6 @@ For example, the output for the input above would be:
 3. Open a terminal and navigate to the directory containing the `complex_numbers.py` file.
 4. Run the program using the command:
 
-   python complex_numbers.py
+   `python complex_numbers.py`
 
 
